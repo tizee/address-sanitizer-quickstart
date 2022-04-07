@@ -1,0 +1,6 @@
+cpp_delete_mismatch
+heap_overflow
+leak
+use_after_free
+*.dYSM
+*.o
